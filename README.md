@@ -4,8 +4,6 @@ In the realm of travel and tourism, the intersection of data analytics and machi
 
 
 
-<h1 align="center">Travel Analytics and Machine Learning</h1>
-<h3 align="center">Capstone Project - Travel Data Analysis and Model Deployment</h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
