@@ -29,8 +29,6 @@ This project focuses on leveraging data analytics and machine learning to revolu
 
 6.Travel Recommendation: Build a recommendation system for hotel suggestions and create a Streamlit app for interactive insights.
 
-7.Build a recommendation model to provide hotel suggestions based on user preferences and historical data. Develop a Streamlit web application to display insights and visualizations derived from the deployed travel recommendation model, offering an interactive and user-friendly 
-interface for data exploration.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
